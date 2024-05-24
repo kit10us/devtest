@@ -1,0 +1,10 @@
+*.a
+*.exe
+*.temp
+*.out
+*.swp
+*.vkcxproj.user
+
+*/__pycache__/
+*/bin/
+*/v17/
